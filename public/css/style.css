@@ -1,0 +1,50 @@
+body {
+  padding: 30px;
+  overflow: scroll;
+}
+
+.wrapper {
+  display: flex;
+  gap: 30px;
+}
+
+img {
+  height: 100%;
+  width: auto;
+}
+
+.container {
+  border: 2px solid #0050ff;
+  border-radius: 30px;
+  padding: 40px;
+  margin-bottom: 50px;
+  position: relative;
+  background: white;
+}
+
+.task {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin: 5px;
+  font-size: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1px;
+  background: #0050ff;
+  border: 2px solid black;
+}
+
+h2 {
+  font-size: 35px;
+  color: #0050ff;
+  margin: 35px 0;
+  font-weight: 700;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
