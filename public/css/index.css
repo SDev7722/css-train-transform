@@ -1,0 +1,146 @@
+body {
+  padding: 30px;
+  overflow: scroll;
+}
+
+.wrapper {
+  display: flex;
+  gap: 30px;
+}
+
+img {
+  height: 100%;
+  width: auto;
+}
+
+.container {
+  border: 2px solid #0050ff;
+  border-radius: 30px;
+  padding: 40px;
+  margin-bottom: 50px;
+  position: relative;
+  background: white;
+}
+
+.task {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin: 5px;
+  font-size: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1px;
+  background: #0050ff;
+  border: 2px solid black;
+}
+
+h2 {
+  font-size: 35px;
+  color: #0050ff;
+  margin: 35px 0;
+  font-weight: 700;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.task1 {
+}
+
+.task1:hover {
+}
+
+.task2 {
+}
+
+.task2:hover {
+}
+
+.task3 {
+}
+
+.task3:hover {
+}
+
+.task4 {
+}
+
+.task4:hover {
+}
+
+.task5 {
+}
+
+.task5:hover {
+}
+
+.task6 {
+}
+
+.task6:hover {
+}
+
+.task7 {
+}
+
+.task7:hover {
+}
+
+.task8 {
+}
+
+.task8:hover {
+}
+
+.task9 {
+}
+
+.task9:hover {
+}
+
+.task10 {
+}
+
+.task10:hover {
+}
+
+.task11 {
+}
+
+.task11:hover {
+}
+
+.task12 {
+}
+
+.task12:hover {
+}
+
+.task13 {
+}
+
+.task13:hover {
+}
+
+.task14 {
+}
+
+.task14:hover {
+}
+
+.task15 {
+}
+
+.task15:hover {
+}
+
+.task16 {
+}
+
+.task16:hover {
+}
