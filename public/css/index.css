@@ -126,13 +126,12 @@
 }
 
 .task15 {
-  transform: scale(1, 1) translate3d(1px, 1px, 1);
-  transition: transform 1s ease-out;
+  transform: matrix(1, 1, 1, 1);
+  transition: all 1s ease-out;
 }
 
 .task15:hover {
-  transform: scale(1.4, 1.4) translate3d(1px, 1px, 1px)
-    rotate3d(2, 2, 3, 178.9deg);
+  transform: matrix(0.4, 1.1, 1.1, 0.4, 1, 1);
 }
 
 .task16 {
